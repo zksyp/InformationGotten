@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/error_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+    <TextView
+        android:id="@+id/error_load_note"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="144dp"
+        android:drawablePadding="42dp"
+        android:gravity="center"
+        android:text="载入失败"
+        android:textColor="@color/black_373737"
+        android:textSize="16dp"/>
+
+
+    <Button
+        android:id="@+id/reload"
+        style="@style/style_button"
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:layout_below="@id/error_load_note"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/reload"/>
+
+</RelativeLayout>

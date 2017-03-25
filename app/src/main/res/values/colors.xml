@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#80000000</color>
+    <color name="no_color">#00FFFFFF</color>
+    <color name="bg_grey">#F3F4F5</color>
+    <color name="bg_check_grey">#F8F8F8</color>
+
+    <!--新标准颜色规范-->
+    <!--橙色-->
+    <!--小面积使用,需要突出的实色按钮或幽灵按钮-->
+    <color name="orange_FF9933">#FF9933</color>
+    <!--小面积使用,需要突出的文字按钮,连接,或icon-->
+    <color name="orange_FF8903">#FF8903</color>
+    <color name="orange_88FF8903">#88FF8903</color>
+    <color name="orange_22FF8903">#22FF8903</color>
+    <!--异常重要的文字颜色,例如价格-->
+    <color name="orange_FF7200">#FF7200</color>
+    <!--按钮按下状态颜色-->
+    <color name="orange_FFE5CB">#FFE5CB</color>
+    <!--自定义-->
+    <color name="orange_FDA33D">#FDA33D</color>
+    <color name="orange_FFA953">#FFA953</color>
+    <color name="orange_note">#98FF8903</color>
+    <color name="orange_FFF8ED">#FFF8ED</color>
+
+    <color name="orange_FFBD73">#FFBD73</color>
+
+    <!--纯白-->
+    <color name="white">#FFFFFF</color>
+    <!--半透明白色-->
+    <color name="white_88FFFFFF">#88FFFFFF</color>
+    <color name="white_CCFFFFFF">#CCFFFFFF</color>
+
+    <color name="grey_DDDDDD">#DDDDDD</color>
+
+
+    <!--黑色-->
+    <!--纯黑-->
+    <color name="black">#000000</color>
+    <!--标题文字颜色,重点的文字-->
+    <color name="black_373737">#373737</color>
+    <!--用于较大段的征文,和文字按钮的颜色-->
+    <color name="black_626262">#626262</color>
+    <!--用于辅助,描述文字-->
+    <color name="black_AFAFAF">#AFAFAF</color>
+    <!--黑色半透明-->
+    <color name="black_99000000">#99000000</color>
+    <!--自定义-->
+    <color name="black_2D3133">#2D3133</color>
+    <color name="black_888888">#888888</color>
+    <color name="black_5E5F5E">#5E5F5E</color>
+    <color name="black_39404D">#39404D</color>
+
+    <!--灰色-->
+    <!--用于灰色背景上的细线,或者白色控件的边框-->
+    <color name="grey_E7E7E7">#E7E7E7</color>
+    <!--灰色背景底色,也可用作白色背景上的细线-->
+    <color name="grey_F3F4F5">#F3F4F5</color>
+    <!--浅色辅助色,可用作导航栏颜色-->
+    <color name="grey_FCFCFC">#FCFCFC</color>
+    <!-- 搜索框背景色 -->
+    <color name="grey_ECECEC">#ECECEC</color>
+    <!--用于辅助,描述文字-->
+    <color name="grey_AFAFAF">#AFAFAF</color>
+    <!--用于邮件填写框-->
+    <color name="grey_F0F0F0">#F0F0F0</color>
+    <!--状态栏颜色-->
+    <color name="grey_4F5765">#4f5766</color>
+    <!--描述性title-->
+    <color name="grey_ACB4B9">#acb4b9</color>
+    <!--自定义-->
+    <color name="grey_A2A2A2">#A2A2A2</color>
+    <color name="grey_CFCFCF">#CFCFCF</color>
+    <color name="grey_C5C5C5">#C5C5C5</color>
+    <color name="grey_CACACA">#CACACA</color>
+    <color name="grey_ACACAC">#ACACAC</color>
+    <color name="grey_B3B3B3">#B3B3B3</color>
+    <color name="grey_9B9B9B">#9B9B9B</color>
+    <color name="grey_FFF8ED">#FFF8ED</color>
+    <color name="grey_D8D8D8">#D8D8D8</color>
+    <color name="grey_EDEDED">#EDEDED</color>
+    <color name="grey_DADADA">#DADADA</color>
+    <!--红色-->
+    <!--小面积使用的警示文字的颜色-->
+    <color name="red_FF5B2C">#FF5B2C</color>
+    <!--点缀色-->
+    <color name="red_FD7A71">#FD7A71</color>
+    <color name="red_88FD7A71">#88FD7A71</color>
+    <!--自定义-->
+    <color name="red_F36363">#F36363</color>
+    <color name="red_FF5F49">#FF5F49</color>
+    <!--提示文案-->
+    <color name="red_note">#98FF8282</color>
+
+    <!--绿色-->
+    <!--点缀色-->
+    <color name="green_79DECD">#79DECD</color>
+    <!--自定义-->
+    <color name="green_59D1BD">#59D1BD</color>
+    <color name="green_63DEC9">#63DEC9</color>
+    <color name="green_69D4AA">#69D4AA</color>
+    <color name="green_85DCCE">#85DCCE</color>
+    <!--提示文案-->
+    <color name="green_note">#9879DECD</color>
+
+    <!--蓝色-->
+    <!-- 点缀色 -->
+    <color name="blue_6C94F7">#6C94F7</color>
+    <color name="blue_39A0FA">#39A0FA</color>
+    <color name="blue_4181c1">#0b1621</color>
+    <!--自定义-->
+    <color name="blue_56A8F9">#56A8F9</color>
+    <color name="blue_4ec3ff">#4EC3FF</color>
+    <!--提示文案-->
+    <color name="blue_note">#984EC2FF</color>
+
+    <!--紫色-->
+    <!-- 点缀色 -->
+    <color name="purple_9878EF">#9878EF</color>
+    <color name="purple_9671F4">#9671F4</color>
+
+    <!--提示文案-->
+    <color name="blue_text_56A8F9">#56a8f9</color>
+
+    <!--深灰色文字颜色-->
+    <color name="grey_dark_888888">#888888</color>
+</resources>

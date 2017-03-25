@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/shape_btn_ffe5cb_solid_ff8903_stroke" android:state_pressed="true"/>
+    <item android:drawable="@drawable/shape_btn_e7e7e7_solid" android:state_enabled="false"/>
+    <item android:drawable="@drawable/shape_btn_ff9933_solid"/>
+</selector>

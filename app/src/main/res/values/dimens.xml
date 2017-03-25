@@ -1,0 +1,115 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <dimen name="list_sep">1px</dimen>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="index_width">20dp</dimen>
+    <dimen name="icon_size">36dp</dimen>
+
+
+    <dimen name="common_margin_left">15dp</dimen>
+
+    <dimen name="user_fragment_item_height">60dp</dimen>
+    <!--底部的悬浮的btn的整体高度-->
+    <dimen name="common_bottom_height">50dp</dimen>
+    <dimen name="common_btn_height">40dp</dimen>
+
+    <dimen name="common_big_btn_height">45dp</dimen>
+
+    <dimen name="btn_middle_size">40dp</dimen>
+
+    <dimen name="item_big_size">40dp</dimen>
+
+    <dimen name="common_margin">20dp</dimen>
+    <dimen name="common_margin_small">5dp</dimen>
+    <dimen name="common_margin_middle_to_small">8dp</dimen>
+    <dimen name="common_margin_middle">10dp</dimen>
+    <dimen name="common_margin_big">15dp</dimen>
+
+    <dimen name="common_padding">20dp</dimen>
+    <dimen name="common_padding_small">5dp</dimen>
+    <dimen name="common_padding_middle">10dp</dimen>
+    <dimen name="common_padding_big">15dp</dimen>
+
+    <!--item的高度-->
+    <dimen name="common_item_height">45dp</dimen>
+
+    <!-- 字体大小 -->
+    <dimen name="font_small_size">12dp</dimen> <!-- 一般灰色字体大小 -->
+    <dimen name="font_header_size">13dp</dimen> <!-- 通用header的字体 -->
+    <dimen name="font_middle_size">14dp</dimen> <!-- 一般操作字体大小  -->
+    <dimen name="font_big_size">15dp</dimen> <!-- 一般内容大小  -->
+    <dimen name="font_super_big_size">16dp</dimen> <!-- 一般标题大小-->
+    <dimen name="font_title">17dp</dimen> <!-- toolbar title -->
+    <dimen name="font_empty_size">18dp</dimen> <!--主页面空的字体 -->
+    <!-- 个别地方用到 -->
+    <dimen name="font_btn_txt_size">17dp</dimen>  <!-- 底部button文字大小 -->
+    <dimen name="font_note_size">13dp</dimen> <!-- 通用的提示字体大小 -->
+
+    <dimen name="view_small_size">15dp</dimen>
+    <dimen name="view_middle_size">20dp</dimen>
+    <dimen name="view_big_size">25dp</dimen>
+
+    <dimen name="avatar_size">60dp</dimen>
+
+    <dimen name="avatar_ly_size">90dp</dimen>
+
+
+    <dimen name="note_height">30dp</dimen>
+
+    <dimen name="search_hint_size">13dp</dimen>
+    <dimen name="home_bottom_bar_font_size">10dp</dimen>
+
+
+    <!--新版安卓UI规范-->
+    <!--用于title，需要加粗-->
+    <dimen name="new_font_title">18dp</dimen>
+    <!--建议行高-->
+    <!--用在一些比较重要的文字，小标题或文字按钮-->
+    <dimen name="new_font_big_size">16dp</dimen>
+    <!--建议行高-->
+    <!--正文字体 大段文字，详情页等-->
+    <dimen name="new_font_middle_size">14dp</dimen>
+    <!--建议行高-->
+    <!--辅助性文字,次要备注信息等-->
+    <dimen name="new_font_small_size">12dp</dimen>
+    <!--建议行高-->
+
+    <!--输出图片时应该以规范标准尺寸输出，可根据实际情况选用-->
+
+    <!--所有按钮的圆角均为4px-->
+    <dimen name="new_corner_radio">2dp</dimen>
+
+    <!--幽灵按钮-->
+
+    <!--常规单元格-->
+
+    <!--带描述的单元格-->
+
+    <!--带选项的单元格-->
+
+    <!--带icon的单元格小-->
+
+    <!--带icon的单元格大-->
+
+    <!--边框宽度-->
+
+    <!--文字相对左右边缘的距离-->
+    <dimen name="text_margin_horizontal">15dp</dimen>
+
+    <!--控件之间的间距,控件距离边缘的间距-->
+    <dimen name="base_padding">10dp</dimen>
+
+    <!--btn的背景图的大的radius-->
+    <dimen name="radius_big">50dp</dimen>
+    <!--默认风格的checkBox的宽度-->
+
+    <!--diloag弹窗的左边距-->
+    <dimen name="dialog_margin_horizontal">48dp</dimen>
+
+    <dimen name="line_width">1px</dimen>
+
+    <dimen name="seek_error_icon_margin_top">60dp</dimen>
+
+</resources>
