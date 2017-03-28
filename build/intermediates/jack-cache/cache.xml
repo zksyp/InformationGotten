@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kaishen/.android/build-cache/824ef3ecca0028b8b561b686dffdad780d3b66e4/output/jars/classes.jar"
+        revision="25.0.1"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/classes-520551e0aaed3536ed6635610da6a24893ab671f.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        revision="25.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/javawriter-2.1.1-4f1cd77743bb5691bcf1b2b80c3b6cbd92fc2ab9.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.android/build-cache/ad0f997388372c029eabb9a9e3712105e1f5d6a7/output/jars/classes.jar"
+        revision="25.0.1"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/classes-d58e88952afbdb89f42316f610fa95b17cdba4d8.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.1"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackRuntimeLibraries/androidTest/debug/jars/8000/40/org.apache.http.legacy-171833148a814a55515b4f7d61907e871053787e.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.android/build-cache/10307ba0267140abdd9e9115a830ce119406ffad/output/jars/classes.jar"
+        revision="25.0.1"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/classes-6697f6a74a1662a743ad1b7a093056279b5a91d5.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        revision="25.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/junit-4.12-533b6a47d324c066298191cd934bfe9cf1666a75.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        revision="25.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/jsr305-2.0.1-27af3e4d425ea7ad9aaf37462d5c242935008506.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.1"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackRuntimeLibraries/androidTest/debug/jars/8000/40/android-87ad45ffbf4270336fa5fb3ba5084b3a470ff75c.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        revision="25.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/javax.annotation-api-1.2-45febee8379ed1dac2cf1360e37a74a80debe70b.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.android/build-cache/c32c4b99b47fa8eac7197391469cebe5390d9f3c/output/jars/classes.jar"
+        revision="25.0.1"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/classes-15218ea0a03184ef00a6d23eda53265d29b27053.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.android/build-cache/4068d25b4254a0d8f48700eecb1b9b78bf22ae03/output/jars/classes.jar"
+        revision="25.0.1"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/classes-34ba01fc9e558f2a3b05ec13714c68fb709584b9.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        revision="25.0.1"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/hamcrest-library-1.3-2f45b2a110fb1171b032a208c99258b85d16f58e.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/javax.inject-1-0ef4ff8daff092ff68b2799fc162b4d0a4ee4141.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        revision="25.0.1"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/hamcrest-integration-1.3-37da49d582f274040250066109a72bb312b391db.jar" />
+    </item>
+    <item
+        jar="/Users/kaishen/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        revision="25.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/kaishen/InformationGotten/app/build/intermediates/transforms/preJackPackagedLibraries/androidTest/debug/jars/8000/1f/hamcrest-core-1.3-5eab9df99478f25561aa72b96ba7b44a88d53f9b.jar" />
+    </item>
+
+</items>

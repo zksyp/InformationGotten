@@ -164,23 +164,23 @@
             android:visibility="gone"
             />
 
-        <com.maihaoche.bentley.basic.module.base.DrawableCenterTextView
-            android:id="@+id/topbar_search_dctv"
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:layout_marginTop="@dimen/toolbar_height"
-            android:background="@drawable/shape_search_box_bg"
-            android:drawableLeft="@drawable/icon_search"
-            android:drawablePadding="5dp"
-            android:gravity="center_vertical"
-            android:text="@string/sku_search_text"
-            android:textColor="@color/black_AFAFAF"
-            android:textSize="@dimen/font_middle_size"
-            android:visibility="gone"
-            />
+        <!--<com.maihaoche.bentley.basic.module.base.DrawableCenterTextView-->
+            <!--android:id="@+id/topbar_search_dctv"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="30dp"-->
+            <!--android:layout_marginBottom="10dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:layout_marginTop="@dimen/toolbar_height"-->
+            <!--android:background="@drawable/shape_search_box_bg"-->
+            <!--android:drawableLeft="@drawable/icon_search"-->
+            <!--android:drawablePadding="5dp"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:text="@string/sku_search_text"-->
+            <!--android:textColor="@color/black_AFAFAF"-->
+            <!--android:textSize="@dimen/font_middle_size"-->
+            <!--android:visibility="gone"-->
+            <!--/>-->
 
     </FrameLayout>
 

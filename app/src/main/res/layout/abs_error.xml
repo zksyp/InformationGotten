@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
                 android:id="@+id/error_view"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
-                android:visibility="gone">
+                android:visibility="gone"
+                tools:visibility="visible">
 
     <TextView
         android:id="@+id/error_load_note"
@@ -21,7 +23,6 @@
 
     <Button
         android:id="@+id/reload"
-        style="@style/style_button"
         android:layout_width="100dp"
         android:layout_height="35dp"
         android:layout_below="@id/error_load_note"

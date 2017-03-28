@@ -52,26 +52,26 @@
         tools:text="快去发布寻车让供应商知道你要什么样的车"
         tools:visibility="visible"/>
 
-    <TextView
-        android:id="@+id/empty_view_btn"
-        style="@style/style_button"
-        android:layout_width="wrap_content"
-        android:layout_height="45dp"
-        android:layout_marginTop="25dp"
-        android:paddingLeft="50dp"
-        android:paddingRight="50dp"
-        android:visibility="gone"
-        tools:visibility="visible"
-        tools:text="添加模板"/>
+    <!--<TextView-->
+        <!--android:id="@+id/empty_view_btn"-->
+        <!--style="@style/style_button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="45dp"-->
+        <!--android:layout_marginTop="25dp"-->
+        <!--android:paddingLeft="50dp"-->
+        <!--android:paddingRight="50dp"-->
+        <!--android:visibility="gone"-->
+        <!--tools:visibility="visible"-->
+        <!--tools:text="添加模板"/>-->
 
-    <TextView
-        android:id="@+id/tv_bottom"
-        android:layout_width="wrap_content"
-        android:layout_height="0dp"
-        android:layout_marginBottom="15dp"
-        android:layout_weight="1"
-        tools:text="添加模板"
-        android:gravity="bottom|center_horizontal"
-        android:textColor="@color/black_AFAFAF"
-        android:textSize="14dp"/>
+    <!--<TextView-->
+        <!--android:id="@+id/tv_bottom"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="0dp"-->
+        <!--android:layout_marginBottom="15dp"-->
+        <!--android:layout_weight="1"-->
+        <!--tools:text="添加模板"-->
+        <!--android:gravity="bottom|center_horizontal"-->
+        <!--android:textColor="@color/black_AFAFAF"-->
+        <!--android:textSize="14dp"/>-->
 </LinearLayout>
